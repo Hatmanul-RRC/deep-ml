@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T11:38:00.620Z",
+  "generated_at": "2026-10-08T11:38:02.402Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -26,6 +26,58 @@
       "last_pushed_at": "2026-09-21T16:38:24.709Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-09-22T17:18:33.677Z",
+      "last_pushed_at": "2026-09-22T17:18:33.677Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-09-22T17:24:19.668Z",
+      "last_pushed_at": "2026-09-22T17:24:19.668Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-09-22T17:29:50.300Z",
+      "last_pushed_at": "2026-09-22T17:29:50.300Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-09-22T18:17:46.542Z",
+      "last_pushed_at": "2026-09-22T18:17:46.542Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
